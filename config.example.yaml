@@ -1,0 +1,4 @@
+targets:
+  - name: Example Item
+    url: https://example.com/cart
+    extractor: sample
